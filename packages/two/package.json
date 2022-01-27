@@ -1,5 +1,5 @@
 {
-  "name": "yangyuetest-two",
+  "name": "yangyuetest-two1",
   "version": "1.0.1",
   "description": "> TODO: description",
   "author": "杨越 <'yangyue@bonree.com'>",
@@ -22,5 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/anneyangyue/lerna/issues"
-  }
+  },
+  "gitHead": "848b782cec1bb848f1fa24dd759999acb61aa80a"
 }
