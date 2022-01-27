@@ -1,5 +1,5 @@
 {
-  "name": "two",
+  "name": "yangyuetest-two",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "杨越 <'yangyue@bonree.com'>",
@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "3daaf7691b32b7ddbb1b42cb96a15adb2d37a0df"
 }
